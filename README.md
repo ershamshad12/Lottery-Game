@@ -17,6 +17,7 @@ A simple and fun React app where you buy a lottery ticket, and if the sum of the
 - React.js
 - JavaScript
 - CSS
+- HTML
 
 ---
 
