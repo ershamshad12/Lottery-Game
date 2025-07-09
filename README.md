@@ -42,7 +42,7 @@ To run this project locally:
 git clone https://github.com/ershamshad12/Lottery-Game.git
 
 # 2. Navigate to the project directory
-cd lottery-game
+cd Lottery-Game
 
 # 3. Install dependencies
 npm install
@@ -62,8 +62,15 @@ npm start
 
 # 🖼️ UI Example
 
-![App Screenshot](before-won.png)
-![App Screenshot](after-won.png)
+## 🖼️ UI Example
+
+### Before Winning
+
+![Before Winning Screenshot](./before-won.png)
+
+### After Winning
+
+![After Winning Screenshot](./after-won.png)
 
 If your ticket shows:
 
