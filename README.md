@@ -63,8 +63,6 @@ npm start
 
 # 🖼️ UI Example
 
-## 🖼️ UI Example
-
 ### Before Winning
 
 ![Before Winning Screenshot](./before-won.png)
