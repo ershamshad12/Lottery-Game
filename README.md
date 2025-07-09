@@ -65,11 +65,11 @@ npm start
 
 ### Before Winning
 
-![Before Winning Screenshot](./before-won.png)
+![Before Winning Screenshot](./public/before-won.png)
 
 ### After Winning
 
-![After Winning Screenshot](./after-won.png)
+![After Winning Screenshot](./public/after-won.png)
 
 If your ticket shows:
 
