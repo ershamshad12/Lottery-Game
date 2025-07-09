@@ -10,6 +10,7 @@ body {
   border-radius: 14px;
   width: 300px;
   margin-bottom: 30px;
+  cursor: pointer;
 }
 .TicketNum {
   font-size: 3rem;
